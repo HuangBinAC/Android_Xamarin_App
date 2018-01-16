@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>D:\Project_Daliy\Android_Xamarin_App\Android_Xamarin_App\obj\Debug\__library_projects__\Microsoft.AppCenter.Analytics.Android.Bindings\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Project_Daliy\Android_Xamarin_App\Android_Xamarin_App\obj\Debug\__library_projects__\Microsoft.AppCenter.Analytics\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Project_Daliy\Android_Xamarin_App\Android_Xamarin_App\obj\Debug\__library_projects__\Microsoft.AppCenter.Android.Bindings\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Project_Daliy\Android_Xamarin_App\Android_Xamarin_App\obj\Debug\__library_projects__\Microsoft.AppCenter.Crashes.Android.Bindings\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Project_Daliy\Android_Xamarin_App\Android_Xamarin_App\obj\Debug\__library_projects__\Microsoft.AppCenter.Crashes\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Project_Daliy\Android_Xamarin_App\Android_Xamarin_App\obj\Debug\__library_projects__\Microsoft.AppCenter.Distribute.Android.Bindings\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Project_Daliy\Android_Xamarin_App\Android_Xamarin_App\obj\Debug\__library_projects__\Microsoft.AppCenter.Distribute\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Project_Daliy\Android_Xamarin_App\Android_Xamarin_App\obj\Debug\__library_projects__\Microsoft.AppCenter\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Project_Daliy\Android_Xamarin_App\Android_Xamarin_App\obj\Debug\__library_projects__\Microsoft.AppCenter.Push\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Microsoft.AppCenter.Analytics.Android.Bindings\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Microsoft.AppCenter.Analytics\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Microsoft.AppCenter.Android.Bindings\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Microsoft.AppCenter.Crashes.Android.Bindings\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Microsoft.AppCenter.Crashes\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Microsoft.AppCenter.Distribute.Android.Bindings\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Microsoft.AppCenter.Distribute\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Microsoft.AppCenter\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Microsoft.AppCenter.Push\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>D:\Project_Daliy\Android_Xamarin_App\Android_Xamarin_App\obj\Debug\__library_projects__\Microsoft.AppCenter.Analytics.Android.Bindings.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Project_Daliy\Android_Xamarin_App\Android_Xamarin_App\obj\Debug\__library_projects__\Microsoft.AppCenter.Analytics.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Project_Daliy\Android_Xamarin_App\Android_Xamarin_App\obj\Debug\__library_projects__\Microsoft.AppCenter.Android.Bindings.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Project_Daliy\Android_Xamarin_App\Android_Xamarin_App\obj\Debug\__library_projects__\Microsoft.AppCenter.Crashes.Android.Bindings.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Project_Daliy\Android_Xamarin_App\Android_Xamarin_App\obj\Debug\__library_projects__\Microsoft.AppCenter.Crashes.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Project_Daliy\Android_Xamarin_App\Android_Xamarin_App\obj\Debug\__library_projects__\Microsoft.AppCenter.Distribute.Android.Bindings.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Project_Daliy\Android_Xamarin_App\Android_Xamarin_App\obj\Debug\__library_projects__\Microsoft.AppCenter.Distribute.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Project_Daliy\Android_Xamarin_App\Android_Xamarin_App\obj\Debug\__library_projects__\Microsoft.AppCenter.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Project_Daliy\Android_Xamarin_App\Android_Xamarin_App\obj\Debug\__library_projects__\Microsoft.AppCenter.Push.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
