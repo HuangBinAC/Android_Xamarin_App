@@ -1,0 +1,60 @@
+Android_Xamarin_App.MainActivity, Android_Xamarin_App;md5009fbb042462e2595b5d4914b48f1fee.MainActivity
+Android_Xamarin_App.MainActivity, Android_Xamarin_App, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5009fbb042462e2595b5d4914b48f1fee.MainActivity
+Android_Xamarin_App.MainActivity;md5009fbb042462e2595b5d4914b48f1fee.MainActivity
+android_xamarin_app.MainActivity;md5009fbb042462e2595b5d4914b48f1fee.MainActivity
+Com.Microsoft.Appcenter.Analytics.Channel.IAnalyticsListenerImplementor, Microsoft.AppCenter.Analytics.Android.Bindings;mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor
+Com.Microsoft.Appcenter.Analytics.Channel.IAnalyticsListenerImplementor, Microsoft.AppCenter.Analytics.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor
+Com.Microsoft.Appcenter.Analytics.Channel.IAnalyticsListenerImplementor;mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor
+mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor;mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor
+Com.Microsoft.Appcenter.Utils.NetworkStateHelper/IListenerImplementor, Microsoft.AppCenter.Android.Bindings;mono.com.microsoft.appcenter.utils.NetworkStateHelper_ListenerImplementor
+Com.Microsoft.Appcenter.Utils.NetworkStateHelper+IListenerImplementor, Microsoft.AppCenter.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.appcenter.utils.NetworkStateHelper_ListenerImplementor
+Com.Microsoft.Appcenter.Utils.NetworkStateHelper.IListenerImplementor;mono.com.microsoft.appcenter.utils.NetworkStateHelper_ListenerImplementor
+mono.com.microsoft.appcenter.utils.NetworkStateHelper_ListenerImplementor;mono.com.microsoft.appcenter.utils.NetworkStateHelper_ListenerImplementor
+Com.Microsoft.Appcenter.Channel.IChannelGroupListenerImplementor, Microsoft.AppCenter.Android.Bindings;mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor
+Com.Microsoft.Appcenter.Channel.IChannelGroupListenerImplementor, Microsoft.AppCenter.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor
+Com.Microsoft.Appcenter.Channel.IChannelGroupListenerImplementor;mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor
+mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor;mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor
+Com.Microsoft.Appcenter.Channel.IChannelListenerImplementor, Microsoft.AppCenter.Android.Bindings;mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor
+Com.Microsoft.Appcenter.Channel.IChannelListenerImplementor, Microsoft.AppCenter.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor
+Com.Microsoft.Appcenter.Channel.IChannelListenerImplementor;mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor
+mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor;mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor
+Com.Microsoft.Appcenter.Crashes.ICrashesListenerImplementor, Microsoft.AppCenter.Crashes.Android.Bindings;mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor
+Com.Microsoft.Appcenter.Crashes.ICrashesListenerImplementor, Microsoft.AppCenter.Crashes.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor
+Com.Microsoft.Appcenter.Crashes.ICrashesListenerImplementor;mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor
+mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor;mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor
+Microsoft.AppCenter.Crashes.AndroidCrashListener, Microsoft.AppCenter.Crashes;md5077d3f1b65f0ebbab0ee71c2383ed9a2.AndroidCrashListener
+Microsoft.AppCenter.Crashes.AndroidCrashListener, Microsoft.AppCenter.Crashes, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;md5077d3f1b65f0ebbab0ee71c2383ed9a2.AndroidCrashListener
+Microsoft.AppCenter.Crashes.AndroidCrashListener;md5077d3f1b65f0ebbab0ee71c2383ed9a2.AndroidCrashListener
+microsoft.appcenter.crashes.AndroidCrashListener;md5077d3f1b65f0ebbab0ee71c2383ed9a2.AndroidCrashListener
+Com.Microsoft.Appcenter.Distribute.IDistributeListenerImplementor, Microsoft.AppCenter.Distribute.Android.Bindings;mono.com.microsoft.appcenter.distribute.DistributeListenerImplementor
+Com.Microsoft.Appcenter.Distribute.IDistributeListenerImplementor, Microsoft.AppCenter.Distribute.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.appcenter.distribute.DistributeListenerImplementor
+Com.Microsoft.Appcenter.Distribute.IDistributeListenerImplementor;mono.com.microsoft.appcenter.distribute.DistributeListenerImplementor
+mono.com.microsoft.appcenter.distribute.DistributeListenerImplementor;mono.com.microsoft.appcenter.distribute.DistributeListenerImplementor
+Microsoft.AppCenter.Distribute.DeepLinkActivity, Microsoft.AppCenter.Distribute.Android.Bindings;md5aa53b1425cbc958f4aeb06709916fcb3.DeepLinkActivity
+Microsoft.AppCenter.Distribute.DeepLinkActivity, Microsoft.AppCenter.Distribute.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;md5aa53b1425cbc958f4aeb06709916fcb3.DeepLinkActivity
+Microsoft.AppCenter.Distribute.DeepLinkActivity;md5aa53b1425cbc958f4aeb06709916fcb3.DeepLinkActivity
+microsoft.appcenter.distribute.DeepLinkActivity;md5aa53b1425cbc958f4aeb06709916fcb3.DeepLinkActivity
+Microsoft.AppCenter.Distribute.DownloadManagerReceiver, Microsoft.AppCenter.Distribute.Android.Bindings;md5aa53b1425cbc958f4aeb06709916fcb3.DownloadManagerReceiver
+Microsoft.AppCenter.Distribute.DownloadManagerReceiver, Microsoft.AppCenter.Distribute.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;md5aa53b1425cbc958f4aeb06709916fcb3.DownloadManagerReceiver
+Microsoft.AppCenter.Distribute.DownloadManagerReceiver;md5aa53b1425cbc958f4aeb06709916fcb3.DownloadManagerReceiver
+microsoft.appcenter.distribute.DownloadManagerReceiver;md5aa53b1425cbc958f4aeb06709916fcb3.DownloadManagerReceiver
+Microsoft.AppCenter.Distribute.Distribute/Listener, Microsoft.AppCenter.Distribute;md5f519deec8f9dbbf40567e3c34c2a7b40.Distribute_Listener
+Microsoft.AppCenter.Distribute.Distribute+Listener, Microsoft.AppCenter.Distribute, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;md5f519deec8f9dbbf40567e3c34c2a7b40.Distribute_Listener
+Microsoft.AppCenter.Distribute.Distribute.Listener;md5f519deec8f9dbbf40567e3c34c2a7b40.Distribute_Listener
+microsoft.appcenter.distribute.Distribute_Listener;md5f519deec8f9dbbf40567e3c34c2a7b40.Distribute_Listener
+Com.Microsoft.Appcenter.Push.IPushListenerImplementor, Microsoft.AppCenter.Push.Android.Bindings;mono.com.microsoft.appcenter.push.PushListenerImplementor
+Com.Microsoft.Appcenter.Push.IPushListenerImplementor, Microsoft.AppCenter.Push.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.appcenter.push.PushListenerImplementor
+Com.Microsoft.Appcenter.Push.IPushListenerImplementor;mono.com.microsoft.appcenter.push.PushListenerImplementor
+mono.com.microsoft.appcenter.push.PushListenerImplementor;mono.com.microsoft.appcenter.push.PushListenerImplementor
+Microsoft.AppCenter.Push.TokenService, Microsoft.AppCenter.Push.Android.Bindings;md5b158d94e3584ca383600d91a9e9b1377.TokenService
+Microsoft.AppCenter.Push.TokenService, Microsoft.AppCenter.Push.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;md5b158d94e3584ca383600d91a9e9b1377.TokenService
+Microsoft.AppCenter.Push.TokenService;md5b158d94e3584ca383600d91a9e9b1377.TokenService
+microsoft.appcenter.push.TokenService;md5b158d94e3584ca383600d91a9e9b1377.TokenService
+Microsoft.AppCenter.Push.PushReceiver, Microsoft.AppCenter.Push;md53cf0631209a7bbd5c8c1ceb5be85f526.PushReceiver
+Microsoft.AppCenter.Push.PushReceiver, Microsoft.AppCenter.Push, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;md53cf0631209a7bbd5c8c1ceb5be85f526.PushReceiver
+Microsoft.AppCenter.Push.PushReceiver;md53cf0631209a7bbd5c8c1ceb5be85f526.PushReceiver
+microsoft.appcenter.push.PushReceiver;md53cf0631209a7bbd5c8c1ceb5be85f526.PushReceiver
+Microsoft.AppCenter.Push.Android.PushListener, Microsoft.AppCenter.Push;md5a4a94de4bce0788b2460df0bddefd331.PushListener
+Microsoft.AppCenter.Push.Android.PushListener, Microsoft.AppCenter.Push, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;md5a4a94de4bce0788b2460df0bddefd331.PushListener
+Microsoft.AppCenter.Push.Android.PushListener;md5a4a94de4bce0788b2460df0bddefd331.PushListener
+microsoft.appcenter.push.android.PushListener;md5a4a94de4bce0788b2460df0bddefd331.PushListener

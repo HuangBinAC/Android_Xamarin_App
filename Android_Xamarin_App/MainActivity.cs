@@ -5,6 +5,7 @@ using Microsoft.AppCenter;
 using Microsoft.AppCenter.Distribute;
 using Microsoft.AppCenter.Analytics;
 using Microsoft.AppCenter.Crashes;
+using System.Collections.Generic;
 
 namespace Android_Xamarin_App
 {
@@ -20,7 +21,17 @@ namespace Android_Xamarin_App
 
             AppCenter.Start("be2e85a9-e851-45d7-ac0f-aeffe54edcd0",
                    typeof(Analytics), typeof(Crashes));
+
+            Analytics.TrackEvent("Video clicked", new Dictionary<string, string> {
+                { "Category", "Music" },
+                { "FileName", "favorite.avi"}
+            });
+
+            Crashes.GenerateTestCrash();
+
         }
+
+
     }
 }
 
